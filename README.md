@@ -1,5 +1,5 @@
 # React + Vite
-# API Fetching using Redux RTK Query
+# API Fetching using RTK Query
 
 This React-Web app is made with the use of Redux-Toolkit library to store and manage the data fetched from mulitple APIs through RapidAPI platform.
 
